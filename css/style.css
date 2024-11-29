@@ -30,7 +30,7 @@ body {
 header {
     padding: 20px;
     height: 90px; 
-    background-image: url('/photos/beterrr.jpg');
+    background-image: url('/saul-goodman-project.github.io/photos/beterrr.jpg');
     color: #FFEE38 ;
     flex-direction: column;
     justify-content: center;
@@ -131,7 +131,7 @@ ul {
     color: rgb(20, 151, 222);
 }
 .form {
-    background-image: url('/photos/speak1.jpg');
+    background-image: url('/saul-goodman-project.github.io/photos/speak1.jpg');
     padding: 25px;
     border-radius: 20px;
     max-width: 600px;
