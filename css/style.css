@@ -13,14 +13,20 @@ body {
     padding-bottom: 100px
 }
 
+
+
 header {
+    font-size: 3.5em;
     padding: 1%;
     background-image: url('/saul-goodman-project.github.io/photos/beterrr.jpg');
     color: #FFEE38 ;
     text-align: center;
     align-items: center;
+    font-size: larger;
 }
 nav{
+    font-size:x-large;
+    font-weight: bold;
     padding: 0.5% 1%; /* Внутренние отступы */
     background-color: #100f0f;
     display: flex;
@@ -51,11 +57,12 @@ nav a:hover{
 }
 
 .container {
-    margin: 0px 166px;
+
     margin-top: 3%;
     justify-content: space-between;
     padding: 10px;
     position: relative;
+    
 
 }
 
@@ -63,32 +70,46 @@ nav a:hover{
     width: 60%;
 }
 .call-us { 
+
     width: 30%;
     position: absolute;
-    top: 25%;
-    right: 10%;
+    top: 35%;
+    padding: 100px;
+    right: 350px;
     
 }
   
 .office-photo{
     position: absolute;
-    top: 304px;
-    left: 40%;
+    top: 32%;
+    left: 50%;
 
 }
 
 li {
     color: white;
+    width: 50%;  /* Ширина списка на половину страницы */
+    
+    padding: 0;
 }
 
 p {
     color: white;
+    font-size:x-large;
+    font-weight: bold;
 }
+
+
 
 
 h2 {
 
 color: #FFEE38 ;
+background-color: black;
+    padding: 10px; 
+    border-radius: 10px; 
+    width: 25%;
+
     
 }
 
@@ -96,30 +117,47 @@ h3 {
     color: rgb(255, 255, 255);
 }
 
-ul {
-   
+.forma {
+    margin-top: 3%;
+    justify-content: space-between;
+    padding: 10px;
+    position: relative;
+    background-color:#431b1b ;
+}
+
+.card-text {
+    font-size: 14px;
+    color: #666; /* Цвет текста */
+    margin: 10px 0;
 }
 
 
 
 
+.card-title {
+    background-color: #2b0c0c;
+}
+ 
 
-.saul{
-
+.contact-intr {
+    text-align: center; 
+    background-color: black;
+    padding: 10px; 
+    border-radius: 10px; 
+    width: 25%;
+    margin: 0 auto; 
+    
 }
 .form {
     background-image: url('/saul-goodman-project.github.io/photos/speak1.jpg');
     padding: 25px;
     border-radius: 20px;
     max-width: 600px;
+    margin: 0 auto;
+    color: #fff;
+    
 
 }
-
-.form label {
-
-}
-
-
 
 .footer {
     background-color: #100f0f; 
@@ -131,9 +169,6 @@ ul {
 }
 .opacity {
     opacity: 0.3;
-}
-.footer-content {
-
 }
 
 
@@ -158,13 +193,13 @@ padding: 0.25%;
  border-radius: 10px;
 }
 
-.map-des{
-
+li {
+    
+    color: white;
+    font-size:x-large;
+    font-weight: bold;
 }
 
-.location{
-
-}
 .yakor {            
             background-color: #4CAF50;
             color: white;
@@ -172,5 +207,6 @@ padding: 0.25%;
             font-size: 20px;
             cursor: pointer;
             text-decoration: none;
-            margin-left: 90%;
+            margin-left: 47.5%;
+
 }
