@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Товар 1",
+        "description": "Описание 1",
+        "price": 100,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbfqBOwRSUATmeP07VfCcgWVn7YlGUJ5bpw&s",
+        "vendor_code": "111"
+    },
+    {
+        "id": 2,
+        "title": "Товар 2",
+        "description": "Описание 2",
+        "price": 200,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcsEk79ju5CbcLt4sI7HkGq6ijP95l_7TwguzCFEHtTyMc6O5P1KFRB6n3qtta6gMMyd0&usqp=CAU",
+        "vendor_code": "222"
+    },
+    {
+        "id": 3,
+        "title": "Товар 3",
+        "description": "Описание 3",
+        "price": 300,
+        "img": "https://creatorset.com/cdn/shop/files/preview_images/Screenshot_2024-08-04_183943_530x@2x.png?v=1722786391",
+        "vendor_code": "333"
+    },
+    {
+        "id": 1,
+        "title": "Товар 1",
+        "description": "Описание 1",
+        "price": 100,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbfqBOwRSUATmeP07VfCcgWVn7YlGUJ5bpw&s",
+        "vendor_code": "111"
+    },
+    {
+        "id": 2,
+        "title": "Товар 2",
+        "description": "Описание 2",
+        "price": 200,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcsEk79ju5CbcLt4sI7HkGq6ijP95l_7TwguzCFEHtTyMc6O5P1KFRB6n3qtta6gMMyd0&usqp=CAU",
+        "vendor_code": "222"
+    },
+    {
+        "id": 3,
+        "title": "Товар 3",
+        "description": "Описание 3",
+        "price": 300,
+        "img": "https://creatorset.com/cdn/shop/files/preview_images/Screenshot_2024-08-04_183943_530x@2x.png?v=1722786391",
+        "vendor_code": "333"
+    }
+]
